@@ -129,9 +129,8 @@ http://127.0.0.1:8000/
 
 ## 👩‍💻 Developer
 
-**Yelleni Deepika**
+Yelleni Deepika
 
-B.Sc. Computer Science | 2026
 
 **GitHub:** https://github.com/YelleniDeepika/GraphLock
 ## Developer
