@@ -1,13 +1,7 @@
-# GraphLock – Enhanced Web Security Through Graphical Passwords
+# GraphLock – Graphical Password Authentication System
 
 ## Project Overview
-GraphLock is a web-based authentication system designed to enhance web security using graphical passwords instead of relying only on traditional text-based passwords.
-
-## Objectives
-- Provide secure user authentication.
-- Implement graphical password management.
-- Verify users through graphical password selection.
-- Improve the user authentication experience.
+GraphLock is a web-based graphical password authentication system designed to enhance web security using image-based password authentication.
 
 ## Technologies Used
 - Python
@@ -15,35 +9,50 @@ GraphLock is a web-based authentication system designed to enhance web security 
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 - MySQL
 - PyMySQL
 
-## Main Modules
+## Key Features
+- User Registration
+- User Login
+- Graphical Password Management
+- Graphical Password Verification
+- Admin Module
+
+## Project Modules
 1. User Registration
 2. User Login
 3. Graphical Password Management
 4. Authentication and Verification
 5. Admin Module
 
-## Project Structure
-- ABSTRACT – Project abstract
-- DATABASE – Database-related files
-- DOCUMENTATION – Project documentation
-- SOURCE CODE – Django application source code
+## Testing
+The following functionalities were tested successfully:
+- Homepage
+- User Registration
+- User Login
+- Graphical Password Selection
+- Correct Password Verification
+- Incorrect Password Rejection
 
-## Installation and Setup
-1. Clone the repository.
-2. Create and activate a Python virtual environment.
-3. Install dependencies using `pip install -r requirements.txt`.
-4. Configure your database credentials using environment variables.
-5. Run database migrations:
-   `python manage.py migrate`
-6. Start the development server:
-   `python manage.py runserver`
+## Project Domain
+Web Development and Cybersecurity
 
-## Project Status
-Successfully tested registration, login, graphical password selection, and password verification.
-
-## Author
+## Developer
 Yelleni Deepika
+## Application Screenshots
 
+### 1. Home Page
+![Homepage](screenshots/homepage.png)
+
+
+
+### 2. Login Page
+![Login](screenshots/loginpage.png)
+
+### 3. Admin Page
+![Graphical Password](screenshots/adminpage.png)
+
+### 4.User Page
+![Admin Dashboard](screenshots/user.png)
