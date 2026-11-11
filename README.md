@@ -50,18 +50,17 @@ The system provides separate user and administrator functionalities for secure a
 
 
 ### 1. Home Page
-![Homepage](screenshots/homepage.png)
+![Homepage](screenshots/01.homepage.png)
 
 
-
+### 2. Admin Page
+![Graphical Password](screenshots/02.adminpage.png)
 ### 2. Login Page
-![Login](screenshots/loginpage.png)
+![Login](screenshots/03.loginpage.png)
 
-### 3. Admin Page
-![Graphical Password](screenshots/adminpage.png)
 
 ### 4.User Page
-![Admin Dashboard](screenshots/user.png)
+![Admin Dashboard](screenshots/04.user.png)
 
 ## 📂 Project Structure
 
