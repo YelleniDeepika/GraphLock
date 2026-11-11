@@ -60,7 +60,7 @@ The system provides separate user and administrator functionalities for secure a
 
 
 ### 4.User Page
-![Admin Dashboard](screenshots/04.user.png)
+![Admin Dashboard](screenshots/04.userpage.png)
 
 ## 📂 Project Structure
 
