@@ -133,5 +133,3 @@ Yelleni Deepika
 
 
 **GitHub:** https://github.com/YelleniDeepika/GraphLock
-## Developer
-Yelleni Deepika
