@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Django secrets
+.env
+.env.*
+!.env.example
+
+# Database files
+*.sqlite3
+
+# Logs
+*.log
+
+# Uploaded media
+media/
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows files
+Thumbs.db
+.DS_Store
+
+/SOURCE CODE/*.rar
